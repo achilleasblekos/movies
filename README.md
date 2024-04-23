@@ -1,7 +1,7 @@
 # Spring-Boot-Application-Movies-Project
 
 
-This project utilizes Java 21 and Java Spring Boot 3.2.5 for the backend, along with React.js for the frontend. MongoDB is used as the database. 
+This project utilizes Java 21 and Java Spring Boot 3.2.5 for the backend, along with React.js for the frontend. MongoDB Atlas is used as the database. 
 
 ## Technologies Used
 - Java 21
@@ -17,4 +17,4 @@ This project utilizes Java 21 and Java Spring Boot 3.2.5 for the backend, along 
 - React.js
 
 ## Database
-- MongoDB
+- MongoDB Atlas
